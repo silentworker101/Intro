@@ -8,7 +8,7 @@
    ## :wave: About Me 
 <a href="https://twitter.com/silentworker101" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/anmolkumar30/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 👩‍🎓 Hey! I'm Anmol, a 23 year old Associate Product Developer at [**BMC Software**](https://github.com/bmcsoftware) working out of Pune, India.
-👩‍💻 Nowadays, I’m working with IMS SysAdmin Team and also contribute to open source projects.
+👩‍💻 Nowadays, I’m working with IMS SysAdmin Team and also contributing to open source projects.
 
 ⚡ Fun fact: I have a Computer Engineering background, but most of the credit goes to Google and Stack Overflow 😪
 
